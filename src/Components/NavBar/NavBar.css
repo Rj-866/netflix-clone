@@ -1,0 +1,38 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color:#111;
+    z-index: 1;
+}
+.rightbar{
+    margin-right: 10px;
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+}
+
+.leftbar{
+    margin-left: 10px;
+    width: 500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+}
+
+/*.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}*/
+
+.avatar{
+   height: 30px;
+    width: 30px;
+}
